@@ -1,4 +1,4 @@
-### Hi there! My name is Yohan and I often go by my gamer tag Yoheze! 💻
+### Hi there! My name is Yohan! 💻
 
 I am an experienced full stack developer with a focus on the front-end. I build high-quality, scalable web applications using React, Redux, and other technologies. Skilled in incorporating websockets and unidirectional data flow to enhance user collaboration and productivity. Expertise in containerizing applications using Docker and deploying them to AWS EC2 instances using Elastic Beanstalk and ECR for seamless deployment and improved scalability. Proficient in securing user information with OAuth 2.0 and TLS certificates obtained through AWS ACM. Recently spoke on Load Balancers at the Jeeny and Bractlet Tech Talk Series. Committed to staying up-to-date with emerging technologies and industry trends to deliver cutting-edge user experiences.
 
